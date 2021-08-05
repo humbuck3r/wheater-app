@@ -4,7 +4,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(./img/nubes2.jpg);
+    background-image: url(../img/nubes2.jpg);
     text-size-adjust: 15px;
     
 }
